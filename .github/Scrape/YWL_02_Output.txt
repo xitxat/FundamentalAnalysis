@@ -1,0 +1,287 @@
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+No AABB
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'IGEX', 'BRYYF', 'TOPS', 'INTK', 'VPER', 'RMED', 'NUWE', 'DVLP', 'MNGG', 'KYNC', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+No IGEX
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'BRYYF', 'TOPS', 'INTK', 'VPER', 'RMED', 'NUWE', 'DVLP', 'MNGG', 'KYNC', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+No BRYYF
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'VPER', 'RMED', 'NUWE', 'DVLP', 'MNGG', 'KYNC', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+No VPER
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'MNGG', 'KYNC', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+No MNGG
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'KYNC', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+No KYNC
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'SANP', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+No SANP
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'GEGI', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+No GEGI
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'TONR', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No TONR
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'NNRX', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No NNRX
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'PRDL', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No PRDL
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'CGRA', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No CGRA
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'ASTA', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No ASTA
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'END', 'END', 'END'
+]
+KGC : Stock DCF: -3.53 | 4.37 | overvalue
+APE : Stock DCF: -23,
+824.25 | 0.9987 | overvalue
+NKTR : Stock DCF: -52.24 | 2.915 | overvalue
+GOEV : Stock DCF: - | 1.395 | undervalue
+BBBY : Stock DCF: -14.49 | 3.615 | overvalue
+MULN : Stock DCF: - | 0.2191 | undervalue
+HYSR : Stock DCF: - | 0.0346 | undervalue
+CORZ : Stock DCF: -14.49 | 0.1485 | overvalue
+COMS : Stock DCF: -1,
+157.48 | 0.1166 | overvalue
+TOPS : Stock DCF: -4,
+451.24 | 3.72 | overvalue
+INTK : Stock DCF: - | 0.00385 | undervalue
+RMED : Stock DCF: -671.94 | 2.965 | overvalue
+NUWE : Stock DCF: - | 0.15 | undervalue
+DVLP : Stock DCF: - | 0.00735 | undervalue
+WISA : Stock DCF: -5,
+201.27 | 0.1203 | overvalue
+MXSG : Stock DCF: - | 0.0008 | undervalue
+TGHI : Stock DCF: -0.03 | 0.00015 | overvalue
+No END
+Ammended tkr: ['KGC', 'APE', 'NKTR', 'GOEV', 'BBBY', 'MULN', 'HYSR', 'CORZ', 'COMS', 'TOPS', 'INTK', 'RMED', 'NUWE', 'DVLP', 'WISA', 'MXSG', 'TGHI', 'END', 'END'
+]
+Done
