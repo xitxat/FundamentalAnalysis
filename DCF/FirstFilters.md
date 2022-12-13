@@ -65,3 +65,4 @@ https://www.gurufocus.com/guru/latest-picks
               HHC
               
 
+https://www.gurufocus.com/guru/consensus-picks
