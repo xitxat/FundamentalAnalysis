@@ -29,17 +29,21 @@
 
 <body>
 
-    <h1>My Report 19 </h1>
+    <h1>Value Stock Report 23 </h1>
+    <p> Report generated at:
+        {{tmpl_time}}
+    </p>
+    <ul>
+        <li>{{cheap_stock_count}} Stocks under MAX_PRICE of {{max_P}}</li>
+        <li>All stocks from Ticker List: FundamentalAnalysis\DCF\FirstFilters.md</li>
+        <li>Chart: Cheaper, Undervalued & Reversed</li>
+    </ul>
 
-
-    {{my_table}}
-
-
-
+    {{tmpl_tbl_cheap}}
 
     <img src='plot.svg' width="600">
 
-    {{my_2nd_table}}
+    {{tmpl_tbl_full}}
 
 
 

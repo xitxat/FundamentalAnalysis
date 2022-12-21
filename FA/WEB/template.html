@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <style>
+        * {
+            font-family: sans-serif;
+        }
+
+        body {
+            background-color: powderblue;
+            padding-left: 80px;
+        }
+
+        table {
+            border-collapse: collapse;
+            text-align: right;
+        }
+
+        table tr {
+            border-bottom: 1px solid
+        }
+
+        table th,
+        table td {
+            padding: 10px 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Value Stock Report 23 </h1>
+    <p> Report generated at:
+        {{tmpl_time}}
+    </p>
+    <ul>
+        <li>{{cheap_stock_count}} Stocks under MAX_PRICE of {{max_P}}</li>
+        <li>All stocks from Ticker List: FundamentalAnalysis\DCF\FirstFilters.md</li>
+        <li>Chart: Cheaper, Undervalued & Reversed</li>
+    </ul>
+
+    {{tmpl_tbl_cheap}}
+
+    <img src='plot.svg' width="600">
+
+    {{tmpl_tbl_full}}
+
+
+
+</body>
+
+</html>
